@@ -44,6 +44,11 @@ To run this project locally, follow these steps:
 
 5. **Open your browser** and navigate to `http://127.0.0.1:5000`.
 
+# DEMO OF MOVIE RECOMMENDATION APP   
+![home](https://github.com/user-attachments/assets/a9ff0d1b-d002-431d-84ee-28dd4e55d00f)
+
+ 
+
 ## Usage
 
 - Upon launching the app, users can browse the movie recommendations.
